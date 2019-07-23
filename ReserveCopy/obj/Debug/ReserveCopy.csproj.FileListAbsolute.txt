@@ -1,0 +1,7 @@
+C:\Users\МакишевЕ.CORP\source\repos\ReserveCopy\ReserveCopy\obj\Debug\ReserveCopy.csprojAssemblyReference.cache
+C:\Users\МакишевЕ.CORP\source\repos\ReserveCopy\ReserveCopy\obj\Debug\ReserveCopy.csproj.CoreCompileInputs.cache
+C:\Users\МакишевЕ.CORP\source\repos\ReserveCopy\ReserveCopy\bin\Debug\ReserveCopy.exe.config
+C:\Users\МакишевЕ.CORP\source\repos\ReserveCopy\ReserveCopy\bin\Debug\ReserveCopy.exe
+C:\Users\МакишевЕ.CORP\source\repos\ReserveCopy\ReserveCopy\bin\Debug\ReserveCopy.pdb
+C:\Users\МакишевЕ.CORP\source\repos\ReserveCopy\ReserveCopy\obj\Debug\ReserveCopy.exe
+C:\Users\МакишевЕ.CORP\source\repos\ReserveCopy\ReserveCopy\obj\Debug\ReserveCopy.pdb
